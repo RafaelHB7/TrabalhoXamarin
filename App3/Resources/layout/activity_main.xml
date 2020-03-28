@@ -19,12 +19,12 @@
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:id="@+id/textViewA" />
+            android:id="@+id/textView1" />
         <EditText
             android:inputType="numberSigned"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:id="@+id/editText1" />
+            android:id="@+id/editTextA" />
     </LinearLayout>
     <LinearLayout
         android:orientation="horizontal"
@@ -38,12 +38,12 @@
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:id="@+id/textViewB" />
+            android:id="@+id/textView2" />
         <EditText
             android:inputType="numberSigned"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:id="@+id/editText2" />
+            android:id="@+id/editTextB" />
     </LinearLayout>
     <LinearLayout
         android:orientation="horizontal"
@@ -57,12 +57,12 @@
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:id="@+id/textViewC" />
+            android:id="@+id/textView3" />
         <EditText
             android:inputType="numberSigned"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:id="@+id/editText3" />
+            android:id="@+id/editTextC" />
     </LinearLayout>
     <LinearLayout
         android:orientation="horizontal"
@@ -73,12 +73,12 @@
         android:id="@+id/linearLayout5">
         <TextView
             android:text="Resultado: "
-            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:id="@+id/textView1" />
+            android:id="@+id/textView4" />
         <TextView
-            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:id="@+id/textViewResultado" />
@@ -87,5 +87,6 @@
         android:text="Calcular"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/button1" />
+        android:id="@+id/button1"
+        android:onClick="Calcular" />
 </LinearLayout>

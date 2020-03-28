@@ -3410,13 +3410,13 @@ namespace App3
 			public const int disableHome = 2131230787;
 			
 			// aapt resource value: 0x7F080044
-			public const int editText1 = 2131230788;
+			public const int editTextA = 2131230788;
 			
 			// aapt resource value: 0x7F080045
-			public const int editText2 = 2131230789;
+			public const int editTextB = 2131230789;
 			
 			// aapt resource value: 0x7F080046
-			public const int editText3 = 2131230790;
+			public const int editTextC = 2131230790;
 			
 			// aapt resource value: 0x7F080047
 			public const int edit_query = 2131230791;
@@ -3785,13 +3785,13 @@ namespace App3
 			public const int textView1 = 2131230905;
 			
 			// aapt resource value: 0x7F0800BA
-			public const int textViewA = 2131230906;
+			public const int textView2 = 2131230906;
 			
 			// aapt resource value: 0x7F0800BB
-			public const int textViewB = 2131230907;
+			public const int textView3 = 2131230907;
 			
 			// aapt resource value: 0x7F0800BC
-			public const int textViewC = 2131230908;
+			public const int textView4 = 2131230908;
 			
 			// aapt resource value: 0x7F0800BD
 			public const int textViewResultado = 2131230909;

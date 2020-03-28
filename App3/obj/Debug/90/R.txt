@@ -1032,9 +1032,9 @@ int id design_menu_item_action_area_stub 0x7f08003b
 int id design_menu_item_text 0x7f08003c
 int id design_navigation_view 0x7f08003d
 int id disableHome 0x7f08003e
-int id editText1 0x7f08003f
-int id editText2 0x7f080040
-int id editText3 0x7f080041
+int id editTextA 0x7f08003f
+int id editTextB 0x7f080040
+int id editTextC 0x7f080041
 int id edit_query 0x7f080042
 int id end 0x7f080043
 int id enterAlways 0x7f080044
@@ -1145,9 +1145,9 @@ int id textSpacerNoButtons 0x7f0800ac
 int id textSpacerNoTitle 0x7f0800ad
 int id textStart 0x7f0800ae
 int id textView1 0x7f0800af
-int id textViewA 0x7f0800b0
-int id textViewB 0x7f0800b1
-int id textViewC 0x7f0800b2
+int id textView2 0x7f0800b0
+int id textView3 0x7f0800b1
+int id textView4 0x7f0800b2
 int id textViewResultado 0x7f0800b3
 int id text_input_password_toggle 0x7f0800b4
 int id textinput_counter 0x7f0800b5
