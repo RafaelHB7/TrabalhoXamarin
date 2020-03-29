@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\App3\\App3.csproj": {}
+    "/Users/ricardovargas/Documents/IFSC/ProgAndroid/TrabalhoXamarin/App3/App3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\App3\\App3.csproj": {
+    "/Users/ricardovargas/Documents/IFSC/ProgAndroid/TrabalhoXamarin/App3/App3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\App3\\App3.csproj",
+        "projectUniqueName": "/Users/ricardovargas/Documents/IFSC/ProgAndroid/TrabalhoXamarin/App3/App3.csproj",
         "projectName": "App3",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\App3\\App3.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\App3\\obj\\",
+        "projectPath": "/Users/ricardovargas/Documents/IFSC/ProgAndroid/TrabalhoXamarin/App3/App3.csproj",
+        "packagesPath": "/Users/ricardovargas/.nuget/packages/",
+        "outputPath": "/Users/ricardovargas/Documents/IFSC/ProgAndroid/TrabalhoXamarin/App3/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/ricardovargas/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid90"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
